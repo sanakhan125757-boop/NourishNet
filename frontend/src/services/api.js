@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://nourishnet-mern-production.up.railway.app/api',
+  baseURL: 'https://nourishnet-fr95.onrender.com/api',
 });
 
 // Add token to headers if it exists
